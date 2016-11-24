@@ -4,13 +4,13 @@
 
 The Sound Sensor Module can be used to detect the sound strength of the environment.We divide the sound into 5 levels,you can use our block to get the curren level.This module can only be pluged into analog connector(A0,A1 oand A2).
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/SoundSensor.png)
 
 ### Block API
 
 #### 1.Get the sound level
 
-Get the current sound level, we divide the sound into 5 levels,range from 1 to 5.1 represent quiet and 5 represent noisy.
+Get the current sound level, we divide the sound into 5 levels,range from 1 to 5.which 1 represent quiet and 5 represent noisy.
 
 > ![pic1](./image/sound_sensor/get-level.png)
 
@@ -42,6 +42,6 @@ Configure the mcu check the sound level periodically, and then execute the assoc
 
 #### 2. Sound level change event
 
-> This example will shows a string 'Change' when the sound level change.
+> When the sound level changes a string will show on the screen.
 
 > ![pic1](./image/sound_sensor/mic-event-show.png)

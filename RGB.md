@@ -4,7 +4,7 @@
 
 A colorful LED. The color and brightness can be programable.the color and brightness is controled by the gray value of  red,green and blue. 
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/rgb.png)
 
 ### Block API
 
@@ -44,13 +44,13 @@ You can change the color of the RGB by setting the three gray values.
 
 #### 1. Use button to show different color.
 
-> When you press button A it will show red,if you press button B it will be green.
+> When you press button A the RGB module will show red,if you press button B it will be green.
 
 > ![pic1](./image/RGB/button-color.png)
 
 #### 2. Set specific color
 
-> This example show you how to set a specific color.There are two different color controled by button A and B.press the two button you will get different color.
+> This example show you how to set a specific color.There are two different color controled by button A and B.press the two button you will get the corresponding color.
 
 > ![pic1](./image/RGB/set-user-color.png)
 

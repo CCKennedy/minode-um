@@ -2,9 +2,9 @@
 
 ### Introduction
 
-The Speaker can be used to make a sound by using the Music block.As the default music is speaking through pin P0,so we need to connect our speaker module to A0.
+The Speaker can be used to make a sound by using the Music blocks.As the default music is speaking through pin P0,so we need to connect our speaker module to connector A0.
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/speaker.png)
 
 ### Example
 

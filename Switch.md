@@ -4,13 +4,13 @@
 
 The switch module can used to switch ON/OFF.
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/switch.png)
 
 ### Block API
 
 #### 1.Check the switch's status
 
-Check whether the switch is openeded right now.
+Check whether the switch is openeded or not.
 
 > ![pic1](./image/Switch/switch-status.png)
 
@@ -38,11 +38,11 @@ Configure the specified pin for digital input, and then execute the associated c
 
 #### 1. Switch control the screen show
 
-> If the switch is opened there will show a smile face on the screen,otherwise there will show nothing.
+> If the switch is opened the screen will show a smile face ,otherwise it will show nothing.
 
 > ![pic2](./image/Switch/switch-exam1.png)
 
-#### 2. Show something when switch is opened/closed
+#### 2. Show the switch module's status
 
 > When the switch is opened,the led screen will show a string 'Open'.if the switch is closed,the led screen will show 'Close'
 

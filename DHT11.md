@@ -4,7 +4,7 @@
 
 This DHT11 Temperature & Humidity Sensor features a temperature & humidity sensor complex with a calibrated digital signal output. It can get temperature and humidity in the environment
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/DHT11.png)
 
 | Module  | Measurement Range |Humidity Accuracy | Temperature Accuracy | 
 |------------|----------------------------|--------------------------|-------------------------------|
@@ -55,12 +55,12 @@ The smallest unit of changing is 1 degrees Celsius.
 
 #### 1. Use button to get the temperature and humidity
 
-> This example show you how to use the button A and B get the temperature and humidity.if you press the button A you will get the temperature.the humidity will show on the screen if you press the button B.
+> This example show you how to use the button A and B to get the temperature and humidity.When you press the button A the screen will show the current temperature,if the button is B it will show the humidity.
 
 > ![pic1](./image/DHT11/button-tem-hum.png)
 
 #### 2. Temperature change event
 
-> This example shows a smile face on the screen when the temperature changes.
+> When the temperature changes the screen will show a smile face!
 
 > ![pic1](./image/DHT11/dht-event-show.png)

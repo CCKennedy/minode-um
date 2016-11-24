@@ -4,13 +4,13 @@
 
 The Rotary can produce analog output between 0 and Vcc by adjust the angular range from 0 ~ 300.This module can only be pluged into analog connector(A0,A1 oand A2).
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/rotary.png)
 
 ### Block API
 
 #### 1.Get the percentage
 
-Get the current rotary percentage.
+Get the current rotary percentage.This value means how much you have rotated the rotary module.
 
 > ![pic1](./image/rotary/get-percentage.png)
 
@@ -42,7 +42,7 @@ Configure the mcu check the rotary AD value periodically, and then execute the a
 
 #### 2. Rotary control the LED show
 
-> When the percentage is smaller than 50 there will show nothing,otherwise there will be a smile face on the LED screen.
+> When the percentage is smaller than 50 the screen will show nothing,otherwise there will be a smile face on the screen.
 
 > ![pic1](./image/rotary/get-per-new.png)
 

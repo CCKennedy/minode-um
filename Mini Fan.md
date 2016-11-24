@@ -4,7 +4,7 @@
 
 The mini fan module contains a DC motor and  orbit fan.we can control the speed of the motor according to different situations.
 
-![module_pic](./image/modules/electronic_circuit.png)
+![module_pic](./image/modules/minifan.png)
 
 ### Block API
 
@@ -26,6 +26,6 @@ We use this block to control the motor's speed.you can change the speed by adjus
 
 #### 1. Use button to control the motor's speed.
 
-> This example show you how to use the button A and B control the motor speed . Button A control the motor to speed up, button B control the motor deceleration.
+> This example show you how to use the button A and B control the motor speed . Button A control the motor to speed up, button B control the motor to deceleration.
 
 > ![pic1](./image/Mini-Fan/button-speed.png)
