@@ -6,6 +6,10 @@ The mini fan module contains a DC motor and  orbit fan.we can control the speed 
 
 ![module_pic](./image/modules/minifan.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Control the motor speed

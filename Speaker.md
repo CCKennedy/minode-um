@@ -6,6 +6,10 @@ The Speaker can be used to make a sound by using the Music blocks.As the default
 
 ![module_pic](./image/modules/speaker.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Example
 
 #### 1. Let your speaker make a sound

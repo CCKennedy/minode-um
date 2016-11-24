@@ -6,6 +6,10 @@ The relay is an electrically operated switch.It is an digital switch can be used
 
 ![module_pic](./image/modules/relay.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Set relay status(open/close)

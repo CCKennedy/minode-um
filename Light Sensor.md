@@ -6,6 +6,10 @@ The Light Sensor Module can be used to detect the intensity of light in the envi
 
 ![module_pic](./image/modules/lightsensor.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Get the light level

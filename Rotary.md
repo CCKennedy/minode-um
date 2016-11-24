@@ -6,6 +6,10 @@ The Rotary can produce analog output between 0 and Vcc by adjust the angular ran
 
 ![module_pic](./image/modules/rotary.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Get the percentage

@@ -6,6 +6,10 @@ The PIR Motion Sensors allows user to sense motion, usually human movement in it
 
 ![module_pic](./image/modules/PIR.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Check the pir status

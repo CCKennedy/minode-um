@@ -6,6 +6,10 @@ The Sound Sensor Module can be used to detect the sound strength of the environm
 
 ![module_pic](./image/modules/SoundSensor.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Get the sound level

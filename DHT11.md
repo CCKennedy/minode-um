@@ -6,6 +6,10 @@ This DHT11 Temperature & Humidity Sensor features a temperature & humidity senso
 
 ![module_pic](./image/modules/DHT11.png)
 
+#### Features
+
+> TODO:Need hardware engineers to confirm this module's specific parameters.
+
 | Module  | Measurement Range |Humidity Accuracy | Temperature Accuracy | 
 |------------|----------------------------|--------------------------|-------------------------------|
 | DHT11   | 20-90%RH / 0-50 ℃  |  ±5％RH                 |    ±2℃                          |

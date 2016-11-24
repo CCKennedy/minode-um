@@ -6,6 +6,10 @@ The switch module can used to switch ON/OFF.
 
 ![module_pic](./image/modules/switch.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Check the switch's status

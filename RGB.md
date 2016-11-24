@@ -6,6 +6,10 @@ A colorful LED. The color and brightness can be programable.the color and bright
 
 ![module_pic](./image/modules/rgb.png)
 
+#### Features
+
+> TODO:Need hardware engineers to add this module's specific parameters.
+
 ### Block API
 
 #### 1.Choose a RGB color
