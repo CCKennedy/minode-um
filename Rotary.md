@@ -18,7 +18,7 @@ Get the current rotary percentage.
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 #### 2.Light Sensor event
 
@@ -30,7 +30,7 @@ Configure the mcu check the rotary AD value periodically, and then execute the a
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 ### Example
 

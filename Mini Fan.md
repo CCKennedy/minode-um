@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The mini fan module contains a DC motor and  orbit fan.we can control the speed of the motor according to different situation.
+The mini fan module contains a DC motor and  orbit fan.we can control the speed of the motor according to different situations.
 
 ![module_pic](./image/modules/electronic_circuit.png)
 
@@ -18,9 +18,9 @@ We use this block to control the motor's speed.you can change the speed by adjus
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector and digital connector.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector and digital connector.
 
-> ** speed ** is the speed of the motor.The adjustment range is from 0 to 100.0 means the motor is shuting down and 100 means the fastest speed. 
+> **speed** is the speed of the motor.The adjustment range is from 0 to 100.0 means the motor is shuting down and 100 means the fastest speed. 
 
 ### Example
 

@@ -19,9 +19,9 @@ the status line will be in high level.
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can be pluged into both analog connector and digital connector.
 
-> ** status ** is the status of the relay open or close.
+> **status** is the status of the relay open or close.
 
 ### Example
 

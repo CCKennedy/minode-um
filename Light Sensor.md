@@ -18,7 +18,7 @@ Get the current light level, we divide the light intensity into 5 levels,from 1 
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 #### 2.Light Sensor event
 
@@ -30,7 +30,7 @@ Configure the MCU check the light level periodically, and then execute the assoc
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 ### Example
 

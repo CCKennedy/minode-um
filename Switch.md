@@ -18,7 +18,7 @@ Check whether the switch is openeded right now.
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can be pluged into both analog connector and digital connector.
 
 #### 2.Switch event
 
@@ -30,9 +30,9 @@ Configure the specified pin for digital input, and then execute the associated c
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can  be pluged into both analog connector and digital connector.
+> **connName** is the analog connector's name.this module can  be pluged into both analog connector and digital connector.
 
-> ** event ** represent two status of switch,open and close.
+> **event** represent two status of switch,open and close.
 
 ### Example
 

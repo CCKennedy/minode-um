@@ -18,7 +18,7 @@ Get the current sound level, we divide the sound into 5 levels,range from 1 to 5
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 #### 2.Sound Sensor event
 
@@ -30,7 +30,7 @@ Configure the mcu check the sound level periodically, and then execute the assoc
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
+> **connName** is the analog connector's name.this module can only be pluged into analog connector A0,A1 and A2.
 
 ### Example
 

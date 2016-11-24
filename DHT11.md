@@ -22,9 +22,9 @@ Get the current temperature,you can configure the format of the temperature in C
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can be pluged into both analog connector and digital connector.
 
-> ** style ** is the format of the temperature.you can choose Celsius or Fahrenheit.
+> **style** is the format of the temperature.you can choose Celsius or Fahrenheit.
 
 #### 2.Get humidity
 
@@ -36,7 +36,7 @@ Get the current humidity.
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can be pluged into both analog connector and digital connector.
 
 #### 3.Temperature change event
 
@@ -49,7 +49,7 @@ The smallest unit of changing is 1 degrees Celsius.
 
 > #### Parameters
 
-> ** connName ** is the analog connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the analog connector's name.this module can be pluged into both analog connector and digital connector.
 
 ### Example
 

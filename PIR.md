@@ -18,7 +18,7 @@ Check whether the switch is triggered or not.when the pir module is triggered th
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can be pluged into both analog connector and digital connector.
 
 #### 2.PIR event
 
@@ -30,7 +30,7 @@ Configure the specified pin for digital input, and then execute the associated c
 
 > #### Parameters
 
-> ** connName ** is the connector's name.this module can  be pluged into both analog connector and digital connector.
+> **connName** is the connector's name.this module can  be pluged into both analog connector and digital connector.
 
 ### Example
 
