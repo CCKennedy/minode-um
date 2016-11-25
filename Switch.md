@@ -48,7 +48,7 @@ Configure the specified pin for digital input, and then execute the associated c
 
 #### 2. Show the switch module's status
 
-> When the switch is opened,the led screen will show a string 'Open'.if the switch is closed,the led screen will show 'Close'
+> In this example we use the switch event to show the switch's status. When the switch is opened,the led screen will show a string 'Open'.if the switch is closed,the led screen will show 'Close'.
 
 > ![pic2](./image/Switch/switch-exam2.png)
 

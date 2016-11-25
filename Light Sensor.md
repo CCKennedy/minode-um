@@ -14,7 +14,7 @@ The Light Sensor Module can be used to detect the intensity of light in the envi
 
 #### 1.Get the light level
 
-Get the current light level, we divide the light intensity into 5 levels,from 1 to 5.1 represents brightest and 5 represents darkness.
+Get current light level, we divide the light intensity into 5 levels,from 1 to 5.which 1 represents brightest and 5 represents darkness.
 
 > ![pic1](./image/light_sensor/get-level.png)
 

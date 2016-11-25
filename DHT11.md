@@ -18,7 +18,7 @@ This DHT11 Temperature & Humidity Sensor features a temperature & humidity senso
 
 #### 1.Get the temperature
 
-Get the current temperature,you can configure the format of the temperature in Celsius or Fahrenheit.
+Get current temperature,you can configure the format of the temperature in Celsius or Fahrenheit.
 
 > ![pic1](./image/DHT11/get-temperature.png)
 
@@ -32,7 +32,7 @@ Get the current temperature,you can configure the format of the temperature in C
 
 #### 2.Get humidity
 
-Get the current humidity.
+Get current humidity.
 
 > ![pic2](./image/DHT11/get-humidity.png)
 
@@ -44,8 +44,7 @@ Get the current humidity.
 
 #### 3.Temperature change event
 
-Configure the MCU check the temperature periodically, and then execute the associated code block whenever the temperature changes.
-The smallest unit of changing is 1 degrees Celsius.
+Configure the MCU check the temperature periodically, and then execute the associated code block whenever the temperature changes.The smallest unit of changing is 1 degrees Celsius.
 
 > ![pic2](./image/DHT11/dht-event.png)
 

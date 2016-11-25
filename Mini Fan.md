@@ -24,7 +24,7 @@ We use this block to control the motor's speed.you can change the speed by adjus
 
 > **connName** is the analog connector's name.this module can only be pluged into analog connector and digital connector.
 
-> **speed** is the speed of the motor.The adjustment range is from 0 to 100.0 means the motor is shuting down and 100 means the fastest speed. 
+> **speed** is the speed of the motor.The adjustment range is from 0 to 100.which 0 means the motor is shuting down and 100 means the fastest speed. 
 
 ### Example
 

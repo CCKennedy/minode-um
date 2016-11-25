@@ -24,7 +24,7 @@ You can choose a given color to show.
 
 > **connName** is the analog connector's name.this module can be pluged into both analog connector and digital connector.
 
-> **color** is set of color.That is red,green,blue,yellow,pink,cyan and white.you can choose a color to light you RGB.
+> **color** is set of colors.That is red,green,blue,yellow,pink,cyan and white.you can choose one color from the given color to light up you RGB module.
 
 #### 2.Set a specific RGB color by setting rgb gray value
 
@@ -48,7 +48,7 @@ You can change the color of the RGB by setting the three gray values.
 
 #### 1. Use button to show different color.
 
-> When you press button A the RGB module will show red,if you press button B it will be green.
+> When you press button A the RGB module will show red,if you press button B the color will be green.
 
 > ![pic1](./image/RGB/button-color.png)
 

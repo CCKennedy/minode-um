@@ -12,9 +12,9 @@ The Sound Sensor Module can be used to detect the sound strength of the environm
 
 ### Block API
 
-#### 1.Get the sound level
+#### 1.Get sound level
 
-Get the current sound level, we divide the sound into 5 levels,range from 1 to 5.which 1 represent quiet and 5 represent noisy.
+Get current sound level, we divide the sound into 5 levels,range from 1 to 5.which 1 represent quiet and 5 represent noisy.
 
 > ![pic1](./image/sound_sensor/get-level.png)
 

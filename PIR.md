@@ -2,7 +2,7 @@
 
 ### Introduction
 
-The PIR Motion Sensors allows user to sense motion, usually human movement in its range.When this module detects that there is an object moving, it will jump from the low level to the high level, and keep the high level for 3 seconds.
+The PIR Motion Sensors allows user to sense motion, usually human movement in its range.When this module detects that there is an object moving, the PIR signal line will jump from the low level to the high level, and keep the high level for 3 seconds.
 
 ![module_pic](./image/modules/PIR.png)
 
@@ -12,7 +12,7 @@ The PIR Motion Sensors allows user to sense motion, usually human movement in it
 
 ### Block API
 
-#### 1.Check the pir status
+#### 1.Check the PIR status
 
 Check whether the switch is triggered or not.when the pir module is triggered the status signal which was detected will be in high level.
 
@@ -26,7 +26,7 @@ Check whether the switch is triggered or not.when the pir module is triggered th
 
 #### 2.PIR event
 
-Configure the specified pin for digital input, and then execute the associated code block whenever the pin in rising edge which means the pir has detected movemwnt.
+Configure the specified pin for digital input, and then execute the associated code block whenever the pin in rising edge which means the PIR has detected movemwnt.
 
 > ![pic2](./image/PIR/pir-event.png)
 
