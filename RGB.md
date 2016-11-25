@@ -30,7 +30,7 @@ You can choose a given color to show.
 
 You can change the color of the RGB by setting the three gray values.
 
-> ![pic1](./image/RGB/set-color-rgb.png)
+> ![pic1](./image/RGB/set-rgb-color.png)
 
 > function RGBSetColor(connName: ConnName, red: number, green: number, blue: number): void;
 
